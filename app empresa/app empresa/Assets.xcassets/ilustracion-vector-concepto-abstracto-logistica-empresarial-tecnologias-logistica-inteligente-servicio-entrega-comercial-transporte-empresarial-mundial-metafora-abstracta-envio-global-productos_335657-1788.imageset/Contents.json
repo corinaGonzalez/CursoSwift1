@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "ilustracion-vector-concepto-abstracto-logistica-empresarial-tecnologias-logistica-inteligente-servicio-entrega-comercial-transporte-empresarial-mundial-metafora-abstracta-envio-global-productos_335657-1788.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
